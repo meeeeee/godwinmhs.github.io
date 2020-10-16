@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Godwin MHS Problem of the Week
 markdown: kramdown
+baseurl: /potw
