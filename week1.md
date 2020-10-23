@@ -1,4 +1,4 @@
-# Problem (10/26 - 11/1)
+# Problem (10/26 - 11/1) - 10 points
 <p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w1p_b.jpg?raw=true"/></p>
 
 # Rankings
