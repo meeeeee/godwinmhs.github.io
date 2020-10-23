@@ -1,5 +1,5 @@
 # Problem
-<p align="center"><img src="/images/PotW_Week_1_cropped-1.svg"/></p>
+<p align="center"><img src="/images/w1p.png"/></p>
 
 # Rankings
 
