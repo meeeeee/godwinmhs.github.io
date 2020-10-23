@@ -1,5 +1,5 @@
 # Problem
-<p align="center"><img src="images/w1p.png"/></p>
+<p align="center"><img src="https://github.com/GodwinMHS/godwinmhs.github.io/blob/main/images/w1p.jpg"/></p>
 
 # Rankings
 
