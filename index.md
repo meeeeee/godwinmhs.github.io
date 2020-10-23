@@ -1,8 +1,3 @@
-
-|[**Home**](https://meeeeee.github.io)|[**Week 1**](https://meeeeee.github.io/week1)|
-|----|----|
-|Home|Ongoing|
-
 # Problem of the Week
 
 As the name suggests, the Problem of the Week is a weekly problem released to the masses - **you**. You solve the problem __SHOWING ALL WORK__, submit it, then repeat. Your problem is scored based on your work and solution and you’re given a score. Every week, you compete against your friends and enemies to score the most points and win competition titles. There will be prizes awarded quarterly and a grand prize awarded at the end of the year. Problems will cover every area of math you have studied and some that you haven’t. Learning math on-the-fly as you do these problems is encouraged; posting on forums or utilizing unauthorized help to is not. Everyone has a chance at winning, so don’t be shy; solve some more!
