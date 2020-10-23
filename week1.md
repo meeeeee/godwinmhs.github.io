@@ -1,8 +1,3 @@
-
-|[**Home**](https://godwinmhs.github.io)|[**Week 1**](https://godwinmhs.github.io/week1)|
-|----|----|
-|Home|Ongoing|
-
 # Problem
 <p align="center"><img src="/images/PotW_Week_1_cropped-1.svg"/></p>
 
