@@ -1,5 +1,5 @@
 # Problem (10/26 - 11/1)
-<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w1p_black.jpg?raw=true"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w1p_b.jpg?raw=true"/></p>
 
 # Rankings
 
