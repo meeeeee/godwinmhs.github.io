@@ -1,4 +1,4 @@
-# Problem  (11/2 - 11/8) - 10 points
+# Problem  (11/2 - 11/8) - 15 points
 <p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w2p_b.jpg?raw=true"/></p>
 
 # Rankings
