@@ -2,7 +2,7 @@
 
 |**1st Place**|**2nd Place**|**3rd Place**|
 |----|----|----|
-|Harshal Nallapareddy|Shrinidhi Kittur & Cameron Sharma|Ryan Poquis|
+|Shrinidhi Kittur & Cameron Sharma|Ryan Poquis|Elina Rastegar|
 
 # Problem  (11/2 - 11/8) - 15 points
 <p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w2p_b.jpg?raw=true"/></p>
