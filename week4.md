@@ -1,4 +1,4 @@
-# Problem (11/16-11/23) - 20 points, 40 points EC: 60 points total
+# Problem (11/16-11/23) - 30 points, 35 points EC: 65 points total
 __The extra-credit is optional - if you do not attempt it, you will not be penalized__ 
 <p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w4p_b.jpg?raw=true"/></p>
 
