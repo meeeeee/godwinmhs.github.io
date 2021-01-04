@@ -1,4 +1,4 @@
-# Problem (12/14-1/4) - 35 points
+# Problem (12/14-1/10) - 35 points
 <p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w8p_b.jpg?raw=true"/></p>
 
 # Rankings
